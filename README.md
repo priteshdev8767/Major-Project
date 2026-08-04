@@ -1,113 +1,66 @@
 <div align="center">
 
-# 🚀 Welcome to My Journey
+# 🚀 Welcome to My Coding Journey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Dream+%F0%9F%92%AD;Believe+%F0%9F%94%A5;Build+%F0%9F%9A%80;Never+Give+Up+%F0%9F%92%AA;One+Commit+at+a+Time..." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Dream+%F0%9F%9A%80;Code+%F0%9F%92%BB;Create+%E2%9C%A8;Innovate+%F0%9F%94%A5;Never+Stop+Learning+%F0%9F%93%9A" />
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="350"/>
+
+---
+
+### 💻 "Turning Coffee ☕ into Code."
+
+> **Every great software starts with an empty folder.  
+> Every successful developer starts with a single line of code.**
+
+---
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
+
+---
+
+## 🚀 Developer Mindset
+
+🧠 Learn Something New Every Day
+
+🐛 Bugs are Temporary, Knowledge is Forever
+
+⚡ Consistency Beats Motivation
+
+🔥 Keep Shipping. Keep Growing.
+
+🌍 Build Something That Matters.
+
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
-
 ---
 
-# 💭 Every Journey Starts With One Step
+## 💭 Motivation
 
-> ### **"Every masterpiece begins with a single commit."**
+> 💡 **"Code is like humor. When you have to explain it, it's bad."**
 
----
+> 🚀 **"Great things are built one commit at a time."**
 
-## 🌱 Believe in Yourself
+> 💻 **"Programming isn't about what you know. It's about what you can figure out."**
 
-✨ Every expert was once a beginner.
+> 🔥 **"Dream. Develop. Deploy."**
 
-✨ Every successful project once had an empty repository.
-
-✨ Every achievement starts with the courage to begin.
-
----
-
-## 🔥 Never Stop Learning
-
-💡 Learn from mistakes.
-
-🐛 Fix bugs with patience.
-
-🚀 Build with passion.
-
-🌟 Grow every single day.
-
----
-
-# 💪 Keep Moving Forward
-
-> **Success isn't about never failing.**
->
-> **It's about never giving up.**
-
----
-
-## ⚡ Daily Reminder
-
-✨ Stay Curious
-
-✨ Stay Consistent
-
-✨ Stay Humble
-
-✨ Stay Hungry
-
-✨ Keep Building
-
----
-
-# 🌍 My Motto
-
-> **Dream Big.**
->
-> **Start Small.**
->
-> **Work Hard.**
->
-> **Stay Consistent.**
->
-> **Never Quit.**
+> 🌟 **"Success is the sum of small efforts repeated every day."**
 
 ---
 
 <p align="center">
 
-### 🚀 Keep Coding
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
 
 </p>
 
----
+# ⚡ Never Stop Building
 
-# 🌟 Inspirational Quotes
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Happy%20Coding!&fontAlign=50&fontAlignY=35&color=gradient&fontColor=ffffff"/>
 
-> 💙 "Discipline is choosing between what you want now and what you want most."
-
-> 🚀 "Success is built one commit at a time."
-
-> 💻 "Code. Learn. Fail. Fix. Repeat."
-
-> 🔥 "Consistency beats motivation."
-
-> 🌈 "The future belongs to those who never stop learning."
-
-> ⭐ "Small progress every day leads to massive success."
-
----
-
-<p align="center">
-
-## 🚀 Thank You for Visiting
-
-### ⭐ *Keep Dreaming • Keep Building • Keep Growing*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
-
-</p>
+</div>
