@@ -1,71 +1,113 @@
-# 🚀 Welcome
+<div align="center">
 
-> **"Every masterpiece begins with a single commit."**
+# 🚀 Welcome to My Journey
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Dream+%F0%9F%92%AD;Believe+%F0%9F%94%A5;Build+%F0%9F%9A%80;Never+Give+Up+%F0%9F%92%AA;One+Commit+at+a+Time..." />
 
-## 💭 A Journey, Not Just a Repository
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350">
+</p>
 
-This repository is a reminder that success isn't achieved in a day—it is built through consistency, patience, and determination.
-
-Every bug fixed teaches a lesson.
-
-Every failure builds experience.
-
-Every commit is a step closer to excellence.
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
 
 ---
 
-## 🌱 Believe in the Process
+# 💭 Every Journey Starts With One Step
 
-> *"Small progress is still progress."*
-
-Some days you'll write hundreds of lines of code.
-
-Some days you'll spend hours fixing a single error.
-
-Both days matter.
+> ### **"Every masterpiece begins with a single commit."**
 
 ---
 
-## 💻 Keep Building
+## 🌱 Believe in Yourself
 
-There will be moments when nothing works.
+✨ Every expert was once a beginner.
 
-There will be nights when giving up feels easier.
+✨ Every successful project once had an empty repository.
 
-But remember...
-
-> **"The difference between a dream and reality is the courage to keep going."**
+✨ Every achievement starts with the courage to begin.
 
 ---
 
-## 🔥 Mindset
+## 🔥 Never Stop Learning
 
-- Learn every day.
-- Improve every commit.
-- Never stop exploring.
-- Stay curious.
-- Keep creating.
+💡 Learn from mistakes.
 
----
+🐛 Fix bugs with patience.
 
-## ✨ Remember
+🚀 Build with passion.
 
-> **"Code. Learn. Fail. Fix. Repeat."**
-
-> **"Discipline will take you where motivation cannot."**
-
-> **"Your future self is watching every decision you make today."**
-
-> **"The best time to start was yesterday. The second best time is now."**
-
-> **"Great developers aren't born—they're built through thousands of mistakes."**
-
-> **"Consistency beats talent when talent doesn't stay consistent."**
+🌟 Grow every single day.
 
 ---
 
-# 🚀 One Commit at a Time.
+# 💪 Keep Moving Forward
 
-**Keep learning. Keep coding. Keep believing.**
+> **Success isn't about never failing.**
+>
+> **It's about never giving up.**
+
+---
+
+## ⚡ Daily Reminder
+
+✨ Stay Curious
+
+✨ Stay Consistent
+
+✨ Stay Humble
+
+✨ Stay Hungry
+
+✨ Keep Building
+
+---
+
+# 🌍 My Motto
+
+> **Dream Big.**
+>
+> **Start Small.**
+>
+> **Work Hard.**
+>
+> **Stay Consistent.**
+>
+> **Never Quit.**
+
+---
+
+<p align="center">
+
+### 🚀 Keep Coding
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+
+</p>
+
+---
+
+# 🌟 Inspirational Quotes
+
+> 💙 "Discipline is choosing between what you want now and what you want most."
+
+> 🚀 "Success is built one commit at a time."
+
+> 💻 "Code. Learn. Fail. Fix. Repeat."
+
+> 🔥 "Consistency beats motivation."
+
+> 🌈 "The future belongs to those who never stop learning."
+
+> ⭐ "Small progress every day leads to massive success."
+
+---
+
+<p align="center">
+
+## 🚀 Thank You for Visiting
+
+### ⭐ *Keep Dreaming • Keep Building • Keep Growing*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=120&section=footer"/>
+
+</p>
