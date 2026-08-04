@@ -1,66 +1,144 @@
 <div align="center">
 
-# 🚀 Welcome to My Coding Journey
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,100:00D9FF&text=Welcome%20to%20My%20Journey&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Dream+%F0%9F%9A%80;Code+%F0%9F%92%BB;Create+%E2%9C%A8;Innovate+%F0%9F%94%A5;Never+Stop+Learning+%F0%9F%93%9A" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Dream+Big+%F0%9F%9A%80;Write+Clean+Code+%F0%9F%92%BB;Keep+Learning+%F0%9F%93%9A;Build+the+Future+%F0%9F%8C%8D;Never+Stop+Creating+%E2%9C%A8"/>
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="350"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnNoN2h2ZjNwMGtwdjh6c3J4b2l0MW9jOHBzdjdodW9vY2o3MzN4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="650"/>
 
----
-
-### 💻 "Turning Coffee ☕ into Code."
-
-> **Every great software starts with an empty folder.  
-> Every successful developer starts with a single line of code.**
+</div>
 
 ---
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux" />
+# ⚡ The Journey Begins Here
+
+> *"Every legendary project once started with an empty repository."*
+
+This repository is not just a collection of files.
+
+It is a story of curiosity, determination, continuous learning, and countless hours of turning ideas into reality.
+
+Every commit is another step toward becoming a better developer.
 
 ---
 
-## 🚀 Developer Mindset
+<div align="center">
 
-🧠 Learn Something New Every Day
+## 💻 Developer Arsenal
 
-🐛 Bugs are Temporary, Knowledge is Forever
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,linux,docker&perline=9"/>
 
-⚡ Consistency Beats Motivation
-
-🔥 Keep Shipping. Keep Growing.
-
-🌍 Build Something That Matters.
+</div>
 
 ---
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
+# 🚀 Mindset
+
+```text
+while(alive)
+{
+    Learn();
+    Build();
+    Fail();
+    Improve();
+    Repeat();
+}
+```
 
 ---
 
-## 💭 Motivation
+# 💡 Philosophy
 
-> 💡 **"Code is like humor. When you have to explain it, it's bad."**
-
-> 🚀 **"Great things are built one commit at a time."**
-
-> 💻 **"Programming isn't about what you know. It's about what you can figure out."**
-
-> 🔥 **"Dream. Develop. Deploy."**
-
-> 🌟 **"Success is the sum of small efforts repeated every day."**
+```cpp
+if (Success == false)
+{
+    Learn();
+    TryAgain();
+}
+else
+{
+    StayHumble();
+    KeepBuilding();
+}
+```
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+### 🌌 There are only two choices.
 
-</p>
+💤 Stay Comfortable
 
-# ⚡ Never Stop Building
+OR
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Happy%20Coding!&fontAlign=50&fontAlignY=35&color=gradient&fontColor=ffffff"/>
+🚀 Build Something Extraordinary
+
+</div>
+
+---
+
+# 🔥 Daily Reminder
+
+> 💙 One Line of Code is Better Than Zero.
+
+> 🚀 Small Progress is Still Progress.
+
+> 💻 Great Developers Never Stop Learning.
+
+> ⚡ Consistency Always Wins.
+
+> 🌟 Dream Bigger Than Your Fear.
+
+> 🔥 Your Future is Being Written One Commit at a Time.
+
+> 🎯 Focus on Progress, Not Perfection.
+
+---
+
+<div align="center">
+
+## 🧠 Developer Rules
+
+🟢 Keep Learning
+
+🟢 Keep Improving
+
+🟢 Keep Exploring
+
+🟢 Keep Building
+
+🟢 Keep Sharing
+
+🟢 Never Quit
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚙️ Powered By
+
+<img src="https://skillicons.dev/icons?i=github,git,vscode,linux"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🚀 One Commit Today.
+# 🌟 One Step Closer Tomorrow.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=0:00D9FF,100:6C63FF&text=Keep%20Coding!&fontSize=35&fontColor=ffffff"/>
 
 </div>
